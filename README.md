@@ -9,7 +9,7 @@
 🔹 **Languages:** JavaScript, Python, C++  
 
 ### 📌 Get in Touch  
-💼[LinkedIn](https://www.linkedin.com/in/kushshanware/) | 📧 [Email](shanwarekush@gmail.com) | 🌐 [Portfolio](#)  
+💼[LinkedIn](https://www.linkedin.com/in/kushshanware/) | 📧 [Email](shanwarekush@gmail.com) | 🌐 [Portfolio](https://kushanware.github.io/Portfolio_Website/)  
 
 ✨ *"Code. Create. Innovate."*  
 
