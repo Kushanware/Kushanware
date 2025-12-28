@@ -54,3 +54,62 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kushanware/Kushanware/output/snake.svg?palette=github-dark&color_snake=#00f5ff,#00d1ff,#0084ff,#5200ff,#8c00ff" width="95%"/>
 </p>
+
+
+## 📊 LeetCode Chart
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Kushanware?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="60%">
+</p>
+
+---
+
+## 🎖 Featured Projects
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🔥 ResumeAI – Job-Specific Analyzer  
+AI tool to compare resume vs job description  
+🛠 Python · NLP · PDF Parsing  
+🔗 https://github.com/Kushanware/ResumeAI  
+
+</td>
+<td width="50%" align="center">
+
+### ⚡ SmartBill OCR Expense Tracker  
+Extracts bills and categorizes expenses  
+🛠 Python · OCR · ML  
+🔗 https://github.com/Kushanware/SmartBill-Scanner  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🤖 VocaMate – Voice Assistant  
+AI speaking assistant using Murf + Gemini  
+🛠 React · Node · Speech API  
+🔗 https://github.com/Kushanware/VocaMate  
+
+</td>
+<td width="50%" align="center">
+
+### 🌍 Blue Carbon Blockchain Registry  
+System for MRV carbon credits  
+🛠 Blockchain · Web3  
+🔗 https://github.com/Kushanware/BlueCarbon-Registry  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌌 GitHub Skyline — 3D Contribution City
+🔗 https://skyline.github.com/Kushanware  
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Kushanware&color=6&icon=5" width="150"/>
+</p>
