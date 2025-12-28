@@ -50,7 +50,7 @@
 ---
 
 ## 🐍 Glowing Contribution Snake
-```markdown
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kushanware/Kushanware/output/snake.svg?palette=github-dark&color_snake=#00f5ff,#00d1ff,#0084ff,#5200ff,#8c00ff" width="95%"/>
 </p>
