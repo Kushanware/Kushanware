@@ -5,58 +5,49 @@
 
 <!-- ================= TYPING EFFECT ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;FAANG+Internship+Candidate;DSA+%7C+Backend+%7C+System+Design;Clean+Code+%26+Scalable+Systems;Learning+Every+Single+Day"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;FAANG+Internship+Candidate;Backend+%7C+DSA+%7C+AI;Clean+Code+%26+Scalable+Systems;Always+Learning+%F0%9F%94%A5"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/DSA-Advanced-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-Learning-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Internship-Open-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Developer-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Internship-Seeking-success?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- B.Tech IT Student  
-- Skilled in **DSA, Backend, AI & Full-Stack**  
-- Building **real impactful projects (not demos)**  
-- Goal → **SDE Intern → SDE-1 → Build products users love**
-
-> *Code. Build. Fail. Learn. Repeat.*
+📍 India | 🎓 B.Tech IT Student  
+💡 Interested in **SDE, Backend, AI/ML, System Design**  
+🧠 Strong in **DSA • Problem Solving • Clean Code**  
+🚀 Goal → **SDE Intern → SDE-1 → Build real world products**
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:007BFF,100:8C00FF&height=80&section=footer"/>
-</div>
-
----
-
-## 🚀 Skills & Tech Arsenal
+## 🚀 Skills & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,html,css,git,linux,docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,html,css,git,linux" height="55"/>
 <br>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,arduino,raspberrypi,androidstudio,kotlin,mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,arduino,raspberrypi,kotlin,mysql,androidstudio" height="55"/>
 </p>
 
 ---
 
-## 📊 GitHub Metrics Dashboard
-> (Auto-updates daily)
+## 📊 GitHub Metrics (Auto Updated Daily)
 <p align="center">
   <img src="https://metrics.lecoq.io/Kushanware?template=classic&config.timezone=Asia%2FKolkata" width="90%">
 </p>
 
 ---
 
-## 🐍 Glowing Contribution Snake
-
+## 🐍 Glowing GitHub Snake (Animated)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kushanware/Kushanware/output/snake.svg?palette=github-dark&color_snake=#00f5ff,#00d1ff,#0084ff,#5200ff,#8c00ff" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Kushanware/Kushanware/output/snake.svg?palette=github-dark&color_snake=#00f5ff,#00d1ff,#0084ff,#5200ff,#8c00ff" width="95%">
 </p>
 
+---
 
-## 📊 LeetCode Chart
+## 📊 LeetCode Chart (Heatmap)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kushanware?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="60%">
 </p>
@@ -64,23 +55,22 @@
 ---
 
 ## 🎖 Featured Projects
-
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 🔥 ResumeAI – Job-Specific Analyzer  
-AI tool to compare resume vs job description  
+### 🔥 ResumeAI – Job Analyzer  
+AI tool comparing resume vs job description  
 🛠 Python · NLP · PDF Parsing  
-🔗 https://github.com/Kushanware/ResumeAI  
+🔗 https://github.com/Kushanware/ResumeAI
 
 </td>
 <td width="50%" align="center">
 
 ### ⚡ SmartBill OCR Expense Tracker  
-Extracts bills and categorizes expenses  
-🛠 Python · OCR · ML  
-🔗 https://github.com/Kushanware/SmartBill-Scanner  
+Bill text extraction + ML categorization  
+🛠 Python · OCR · Machine Learning  
+🔗 https://github.com/Kushanware/SmartBill-Scanner
 
 </td>
 </tr>
@@ -88,18 +78,18 @@ Extracts bills and categorizes expenses
 <tr>
 <td width="50%" align="center">
 
-### 🤖 VocaMate – Voice Assistant  
-AI speaking assistant using Murf + Gemini  
-🛠 React · Node · Speech API  
-🔗 https://github.com/Kushanware/VocaMate  
+### 🤖 VocaMate – AI Voice Assistant  
+Gemini NLP + Murf TTS speech  
+🛠 React · Node · TTS/LLM  
+🔗 https://github.com/Kushanware/VocaMate
 
 </td>
 <td width="50%" align="center">
 
 ### 🌍 Blue Carbon Blockchain Registry  
-System for MRV carbon credits  
+Hackathon Web3 MRV carbon registry  
 🛠 Blockchain · Web3  
-🔗 https://github.com/Kushanware/BlueCarbon-Registry  
+🔗 https://github.com/Kushanware/BlueCarbon-Registry
 
 </td>
 </tr>
@@ -107,8 +97,11 @@ System for MRV carbon credits
 
 ---
 
-## 🌌 GitHub Skyline — 3D Contribution City
+## 🌌 GitHub Skyline
+3D contribution city view  
 🔗 https://skyline.github.com/Kushanware  
+
+---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Kushanware&color=6&icon=5" width="150"/>
