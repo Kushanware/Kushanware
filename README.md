@@ -26,13 +26,6 @@ Currently seeking **Software Developer Internship opportunities**.
 
 ## 🚀 Featured Projects
 
-### 🔥 CodeBuddy – Developer Collaboration Platform
-
-Full-stack platform to create, join, and manage development projects
-🛠 Tech: React · Node.js · Supabase
-
----
-
 ### 🤖 Resume Analyzer
 
 AI-powered tool to analyze resumes against job descriptions
